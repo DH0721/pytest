@@ -1,3 +1,4 @@
+import mod1
 # Why need to class? Don't repeat same calculation
 # result = 0
 # def add(num):
@@ -63,3 +64,6 @@ b = MoreFourCal(5,0)
 #39번 line이 아닌 54번 라인 부모를 상속받은 자식이 덮어씌움
 #오버라이딩 개념
 print(b.div())
+
+#mod1 import
+print(mod1.add(1,2))
