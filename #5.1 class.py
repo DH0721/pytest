@@ -65,5 +65,5 @@ b = MoreFourCal(5,0)
 #오버라이딩 개념
 print(b.div())
 
-#mod1 import test tt
+#mod1 import
 print(mod1.add(1,2))
